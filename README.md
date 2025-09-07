@@ -24,5 +24,6 @@ Implemented local storage for search history persistence.
 Strengthened debugging and UI/UX refinement skills.
 
 🔗 Live Demo
-Check out the live version: LivWeather Web App
+Check out the live version: https://devchinmaya.github.io/Live-Weather-App/
+
 Feel free to fork, clone, or contribute. Feedback and suggestions are always welcome!
