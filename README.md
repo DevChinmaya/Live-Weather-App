@@ -2,6 +2,7 @@
 
 LivWeather is a sleek, responsive weather web app that delivers real-time weather updates for any city worldwide. Built using HTML, CSS, and JavaScript, it integrates with a weather API to provide accurate, location-based forecasts in a clean and intuitive interface.
 
+
 🚀 Features
 
 🔍 City-Based Search: Instantly fetch weather data for any location.
@@ -16,6 +17,7 @@ LivWeather is a sleek, responsive weather web app that delivers real-time weathe
 
 📱 Responsive Design: Optimized for mobile and desktop using modern CSS techniques.
 
+
 🛠 Tech Stack
 
 Frontend: HTML5, CSS3, JavaScript (Vanilla)
@@ -23,6 +25,7 @@ Frontend: HTML5, CSS3, JavaScript (Vanilla)
 API: OpenWeatherMap (or similar weather API)
 
 Deployment: GitHub Pages
+
 
 📚 Learnings
 
@@ -35,6 +38,7 @@ Practiced responsive design using Flexbox and media queries.
 Implemented local storage for search history persistence.
 
 Strengthened debugging and UI/UX refinement skills.
+
 
 🔗 Live Demo
 
